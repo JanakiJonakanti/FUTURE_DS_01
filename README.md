@@ -83,3 +83,6 @@ Business-Sales-Analytics/
 Outcome
 
 This project demonstrates practical business analytics skills including data cleaning, KPI analysis, dashboard development, insight generation, and business storytelling using Power BI.
+Author
+J Janaki
+Business Sales Performance Analytics
